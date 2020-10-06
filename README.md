@@ -19,8 +19,9 @@ They will be available once you build it with the command 'catkin_build'.
 YOLOv4 weights are downloaded by default.
 * You can get it by using the command line: `wget https://drive.google.com/file/d/1GJwGiR7rizY_19c_czuLN8p31BwkhWY5/view?usp=sharing`
 * You can download more here https://pypi.org/project/yolov4/
-
-Put this file in the right folder src>obstacle detection>src>weights
+<p>Put this file in the right folder src>obstacle detection>src>weights
+<p>
+You can download the bag file using the command `wget https://open-source-webviz-ui.s3.amazonaws.com/demo.bag`
 
 ## Good Luck!
 
